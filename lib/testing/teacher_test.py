@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-from teacher import Teacher
-from user import User
+from lib.teacher import Teacher
+from lib.user import User
 
 my_teacher = Teacher("My", "Teacher")
 

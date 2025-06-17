@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from user import User
+from lib.user import User
 
 class TestUser:
     '''Class "User" in user.py'''
